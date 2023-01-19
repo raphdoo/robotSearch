@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/robot_search/static/css/main.08ed2c78.css",
-    "main.js": "/robot_search/static/js/main.3739e578.js",
-    "static/js/787.7c124829.chunk.js": "/robot_search/static/js/787.7c124829.chunk.js",
-    "index.html": "/robot_search/index.html",
-    "main.08ed2c78.css.map": "/robot_search/static/css/main.08ed2c78.css.map",
-    "main.3739e578.js.map": "/robot_search/static/js/main.3739e578.js.map",
-    "787.7c124829.chunk.js.map": "/robot_search/static/js/787.7c124829.chunk.js.map"
+    "main.css": "/robotSearch/static/css/main.08ed2c78.css",
+    "main.js": "/robotSearch/static/js/main.9c2be9a3.js",
+    "static/js/787.7c124829.chunk.js": "/robotSearch/static/js/787.7c124829.chunk.js",
+    "index.html": "/robotSearch/index.html",
+    "main.08ed2c78.css.map": "/robotSearch/static/css/main.08ed2c78.css.map",
+    "main.9c2be9a3.js.map": "/robotSearch/static/js/main.9c2be9a3.js.map",
+    "787.7c124829.chunk.js.map": "/robotSearch/static/js/787.7c124829.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08ed2c78.css",
-    "static/js/main.3739e578.js"
+    "static/js/main.9c2be9a3.js"
   ]
 }
